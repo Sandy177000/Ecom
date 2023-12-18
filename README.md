@@ -1,5 +1,5 @@
 # Ecom
-A responsive and interactive web page that displays a list of products. Each product should includes an image, title, description, and price. User is able to filter and sort the products based on their attributes (e.g., company, category). Additionally, implemented pagination system to navigate through the product list.
+A responsive and interactive web page that displays a list of products. Each product should includes an image, title, description, and price. User is able to filter and sort the products based on their attributes (e.g., company, category). Additionally, implemented pagination system to navigate through the product list. 
 
 # Getting Started with Create React App
 
